@@ -1,5 +1,5 @@
 import React from "react";
-import Jump from "./pages/jump";
+import Jump from "./pages/Jump";
 function App() {
 
   return (
